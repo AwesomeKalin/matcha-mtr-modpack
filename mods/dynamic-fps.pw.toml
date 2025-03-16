@@ -15,4 +15,4 @@ version = "tYR1mIjv"
 [option]
 optional=true
 default=true
-description=Reduce FPS when minimised
+description="Reduce FPS when minimised"

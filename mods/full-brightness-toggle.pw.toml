@@ -15,4 +15,4 @@ version = "9UsRPWLi"
 [option]
 optional=true
 default=false
-description=Have full bright
+description="Have full bright"
