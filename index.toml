@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6e2bb92178c7423f5212fc0e9cc26da95104340ce89825c3e487a69a3e5e28e6"
+hash = "842d22ec80e24e1dd65c02e7c27ec474f96e3cac6f4ed6cac39fab4e476f9510"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/full-brightness-toggle.pw.toml"
-hash = "f7954196442ce6744c631b2f1a3617ece000d702fe053088f2c31803da19f51c"
+hash = "cbe61a5786c6bf79b88eaefe60807c60cba5af6aaedcda7204df929ce77d8bf1"
 metafile = true
 
 [[files]]
