@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcepackupdater-1.20.1-2.3.0.jar"
-hash = "332cc13249c02e70c969e8c82885a304c8de06b1665325887b406e01a40c7ccc"
+hash = "07baaab4608c92000fe2f924405347baa8fefd04f83968619e3f26bcb52efc17"
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
