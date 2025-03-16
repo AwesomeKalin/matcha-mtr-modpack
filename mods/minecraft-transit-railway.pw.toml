@@ -1,0 +1,14 @@
+name = "Minecraft Transit Railway"
+filename = "MTR-forge-1.20.1-3.2.2-hotfix-2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/YLvg95i9/MTR-forge-1.20.1-3.2.2-hotfix-2.jar"
+hash-format = "sha512"
+hash = "47c998eb3ad5d23847ed1ff8da7a9caecc2f024b3e3d2abb5bd8166be24861cf4c49d02158dbbc2aa2c15edc1f4ed77781215fcabfb967741f3c5698509a2993"
+
+[update]
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "YLvg95i9"

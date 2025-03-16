@@ -1,0 +1,13 @@
+name = "Matcha's MTR"
+author = "AwesomeKalin55, matcha"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3927d3d0b5f022ae02a888417093d4fadb39a4a68952e7d4bf1983653beedaad"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"

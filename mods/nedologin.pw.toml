@@ -1,0 +1,13 @@
+name = "Nedologin"
+filename = "nedologin-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnP1u8PK/versions/kEiRS5ZT/nedologin-2.0.2.jar"
+hash-format = "sha512"
+hash = "e001c901c6e2abd2eb27be175c420aa08f340a88777dae36afffe4148887258ac78fcdd7fd0f970373b6a0e9b54e8c3579dd775f51a3718743b353c7212e9c9a"
+
+[update]
+[update.modrinth]
+mod-id = "fnP1u8PK"
+version = "kEiRS5ZT"
