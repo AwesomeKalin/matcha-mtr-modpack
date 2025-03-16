@@ -100,7 +100,7 @@ hash = "a764137af8157a15bce180d539c4a7e9e918aaff0e739dc8bb40aeb805769d5d"
 metafile = true
 
 [[files]]
-file = "mods/resourcepackupdater-1.20.1-2.3.0.jar"
+file = "mods/resourcepackupdater-1.20.1-2.3.0.jar.disabled"
 hash = "07baaab4608c92000fe2f924405347baa8fefd04f83968619e3f26bcb52efc17"
 
 [[files]]
