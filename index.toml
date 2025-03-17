@@ -1,17 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/resourcepackupdater.json"
-hash = "f24efb3c7228899f7c29d5f6e472f65d8ca9475c4395d0c88034106c25fea2a1"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "47bfb455847e99dd0555d3ced5ce3c48b927a93f06103bd8e6299454a03a490e"
+hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
 metafile = true
 
 [[files]]
@@ -36,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/full-brightness-toggle.pw.toml"
-hash = "cbe61a5786c6bf79b88eaefe60807c60cba5af6aaedcda7204df929ce77d8bf1"
+hash = "e951e8aa2fbe94290915397774155ac1076ddd1bb696914d456f8338cd6a4049"
 metafile = true
 
 [[files]]
@@ -96,12 +92,8 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a764137af8157a15bce180d539c4a7e9e918aaff0e739dc8bb40aeb805769d5d"
+hash = "dbb83ae72868c1d9a3b4c2a32b7f083348ee427ecffc4b149010f7eca7c310c5"
 metafile = true
-
-[[files]]
-file = "mods/resourcepackupdater-1.20.1-2.3.0.jar.disabled"
-hash = "07baaab4608c92000fe2f924405347baa8fefd04f83968619e3f26bcb52efc17"
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
@@ -110,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74b4ea5279c7fa9965ced3d9d02d42aeaf1b213314e3e9b5c5747a36ae6e9648"
+hash = "14cf28485830d53433b7f6c82eb23fc87dcbc382a65eb20078088dc2e801da3e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
+hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
 metafile = true
 
 [[files]]
